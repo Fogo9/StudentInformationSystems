@@ -1,10 +1,4 @@
 
-<br />
-
-[![image](https://r.resimlink.com/MRHA5KJL.png)](https://resimlink.com/MRHA5KJL)
-
-<br />
-
 # **STUDENT INFORMATION SYSTEMS**
 
 # **Information**
