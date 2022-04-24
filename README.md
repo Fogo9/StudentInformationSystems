@@ -1,4 +1,4 @@
-![sis_hero-wide](https://user-images.githubusercontent.com/98576037/164991189-fd536b13-30a7-4bd9-acf8-d21c281c2a6e.png)
+![ScreenShot](https://user-images.githubusercontent.com/98576037/164991189-fd536b13-30a7-4bd9-acf8-d21c281c2a6e.png)
 
 # **STUDENT INFORMATION SYSTEMS**
 
