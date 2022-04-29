@@ -2,15 +2,15 @@
 
 # **STUDENT INFORMATION SYSTEMS**
 
-# **Information**
+## **INFORMATION**
 
 * **Student information system: It is the system where the exam grades of the students are entered by the teachers and thanks to this information, it guides the student on the path of self-development.**
 
-# **Technologies Used**
+## **TECHNOLOGIES USED**
 
 * **JAVA**
 
-# **Contents**
+## **CONTENTS**
 
 * **Teacher**, **Student** and **Course** class information has been created.
 
@@ -32,9 +32,7 @@
 
 * Lessons were determined for each teacher. A warning has been added that if the teacher attends a course other than the one assigned to him, he will not be able to attend the class.
 
-<br />
-
-# **Codes**
+## **CODES**
 
 ```Java
 
@@ -330,13 +328,13 @@
 
 <br />
 
-# **LINK**
+## **LINK**
 
 * Click here https://github.com/Fogo9/StudentInformationSystem.git to access the Github page for this project.
 
 <br />
 
-# **LICENSE**
+## **LICENSE**
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
